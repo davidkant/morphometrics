@@ -232,8 +232,7 @@ def is_basis_normal(c):
 
   return one and two
 
-
-
+# def to_basis_normal(self):
 
 
 
