@@ -54,7 +54,7 @@ def L_to_basis(L):
   if L==3: return basis_L3
   if L==4: return basis_L4
   if L==5: return basis_L5
-  else: print 'nope'
+  else: print('nope')
 
 #--------------------------------------------------------------------------------------------------#
 # COORDINATE SYSTEMS [API]
